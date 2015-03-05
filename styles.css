@@ -700,6 +700,14 @@ input:focus, textarea:focus {
 	padding: 0px;
 }
 
+.twitterpic {
+	height: 20px;
+	width: 20px;
+	margin: 0px;
+	margin-right: 5px;
+	padding: 0px;
+}
+
 .bmpres {
 	text-align: center;
 }
